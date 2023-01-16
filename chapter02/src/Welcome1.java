@@ -1,5 +1,3 @@
-package chapter02;
-
 //  single line comment
 /*
     multi-line comment

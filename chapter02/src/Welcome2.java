@@ -1,5 +1,3 @@
-package chapter02;
-
 // Display a single line of text with multiple statements
 public class Welcome2
 {

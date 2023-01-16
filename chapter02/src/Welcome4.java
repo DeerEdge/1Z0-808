@@ -1,5 +1,3 @@
-package chapter02;
-
 // Display multiple lines with printf
 public class Welcome4
 {
